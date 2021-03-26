@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: helloworld
+Version: 0.0.1
+Summary: description of say hello.
+Home-page: www.google.com
+Author: Ankit
+Author-email: moralankit@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: programming language :: Python :: 3
+Classifier: programming language :: Python :: 3.6
+Classifier: programming language :: Python :: 3.7
+Classifier: License :: MIT License :: simple and permissive
+Classifier: Operating System :: OS independent
+Provides-Extra: dev
