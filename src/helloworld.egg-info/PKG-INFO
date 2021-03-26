@@ -2,15 +2,13 @@ Metadata-Version: 2.1
 Name: helloworld
 Version: 0.0.1
 Summary: description of say hello.
-Home-page: www.google.com
-Author: Ankit
-Author-email: moralankit@gmail.com
+Home-page: https://github.com/ankit-gyanchand/ta_mle_module_packaging
+Author: ankit_300
+Author-email: ankit.gyanchand@tigeranalytics.com
 License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN
-Classifier: programming language :: Python :: 3
-Classifier: programming language :: Python :: 3.6
-Classifier: programming language :: Python :: 3.7
-Classifier: License :: MIT License :: simple and permissive
-Classifier: Operating System :: OS independent
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
 Provides-Extra: dev

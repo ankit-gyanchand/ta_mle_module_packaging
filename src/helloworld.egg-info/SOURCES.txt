@@ -1,5 +1,9 @@
+LICENSE.txt
+MANIFEST.in
 README.md
 setup.py
+dist/helloworld-0.0.1-py3-none-any.whl
+dist/helloworld-0.0.1.tar.gz
 src/say_hello.py
 src/helloworld.egg-info/PKG-INFO
 src/helloworld.egg-info/SOURCES.txt
